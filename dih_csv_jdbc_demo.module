@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the DIH CSV JDBC Demo feature.
+ */
+
+include_once 'dih_csv_jdbc_demo.features.inc';

@@ -31,6 +31,7 @@ function dih_csv_jdbc_demo_current_search_default_items() {
     'advanced' => array(
       'empty_searches' => '3',
     ),
+    'searcher' => 'search_api@sarnia_dih_csv_jdbc',
   );
   $export['dih_csv_demo'] = $item;
 
